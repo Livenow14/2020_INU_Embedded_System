@@ -20,4 +20,4 @@
 이번 수업의 모든 예제는 다음의 환경에서 진행됩니다.
 
 * Vm Ware_ Linux Ubuntu 18.04.4
-* Odriod C1 Linux Ubuntu 14.04.3 
+* Odroid C1 Linux Ubuntu 14.04.3 

@@ -22,3 +22,6 @@
 * Vm Ware_ Linux Ubuntu 18.04.4 
 - 버전은 크게 상관 없습니다. 하지만 수업에서 실시한 vmware& ubuntu 설치를 해주세요. 버전, bit가 다르면 많은 오류가 생길 가능성이 높습니다.
 * Odroid C1 Linux Ubuntu 14.04.3 
+
+### Lab 1 관련 주요 이슈
+-  [GPIO Lab 1 실행문제 #9](https://github.com/Livenow14/2020_INU_Embedded_System/issues/9)

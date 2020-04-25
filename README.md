@@ -24,4 +24,8 @@
 * Odroid C1 Linux Ubuntu 14.04.3 
 
 ### Lab 1 관련 주요 이슈
--  [GPIO Lab 1 실행문제 #9](https://github.com/Livenow14/2020_INU_Embedded_System/issues/9)
+-  [GPIO Lab 1 실행 문제 #9](https://github.com/Livenow14/2020_INU_Embedded_System/issues/9)
+-  [WiringPi.h 인식 문제1](https://github.com/Livenow14/2020_INU_Embedded_System/issues/10)
+-  [WiringPi.h 인식 문제2](https://github.com/Livenow14/2020_INU_Embedded_System/issues/11)
+-  [WiringPi.h 인식 문제3](https://github.com/Livenow14/2020_INU_Embedded_System/issues/12)
+-  [mount 문제](https://github.com/Livenow14/2020_INU_Embedded_System/issues/13)

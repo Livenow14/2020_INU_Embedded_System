@@ -30,3 +30,4 @@
 -  [WiringPi.h 인식 문제3](https://github.com/Livenow14/2020_INU_Embedded_System/issues/12)
 -  [mount 문제](https://github.com/Livenow14/2020_INU_Embedded_System/issues/13)
 -  [zmodem 문제_03 Odroid Host 환경설정 p29 hello파일이 없습니다. #14](https://github.com/Livenow14/2020_INU_Embedded_System/issues/14)
+-  [minicom 실행문제](https://github.com/Livenow14/2020_INU_Embedded_System/issues/15)

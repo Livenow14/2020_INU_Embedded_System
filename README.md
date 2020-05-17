@@ -31,3 +31,11 @@
 -  [mount 문제](https://github.com/Livenow14/2020_INU_Embedded_System/issues/13)
 -  [zmodem 문제_03 Odroid Host 환경설정 p29 hello파일이 없습니다. #14](https://github.com/Livenow14/2020_INU_Embedded_System/issues/14)
 -  [minicom 실행문제](https://github.com/Livenow14/2020_INU_Embedded_System/issues/15)
+
+### Lab 2(중간고사) 관련 주요 이슈
+- [알고리즘 설명 및 프로그램 구조 질문](https://github.com/Livenow14/2020_INU_Embedded_System/issues/16)
+- [중간고사에 대하여 질문있습니다. #17](https://github.com/Livenow14/2020_INU_Embedded_System/issues/17)
+- [중간고사 Lab 선이 부족합니다. #20](https://github.com/Livenow14/2020_INU_Embedded_System/issues/20)
+- [05-3 CLCD lab 6p_버튼 사용에 관한 질문 #21](https://github.com/Livenow14/2020_INU_Embedded_System/issues/21)
+- [버튼을 입력받는데 문제가 있어 질문 드립니다! #22](https://github.com/Livenow14/2020_INU_Embedded_System/issues/22)
+- [<중간고사>WiringPi GPIO관련 질문 드립니다. #23](https://github.com/Livenow14/2020_INU_Embedded_System/issues/23)

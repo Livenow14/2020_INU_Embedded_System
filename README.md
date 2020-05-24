@@ -39,3 +39,15 @@
 - [05-3 CLCD lab 6p_버튼 사용에 관한 질문 #21](https://github.com/Livenow14/2020_INU_Embedded_System/issues/21)
 - [버튼을 입력받는데 문제가 있어 질문 드립니다! #22](https://github.com/Livenow14/2020_INU_Embedded_System/issues/22)
 - [<중간고사>WiringPi GPIO관련 질문 드립니다. #23](https://github.com/Livenow14/2020_INU_Embedded_System/issues/23)
+- [중간고사 숫자 입력 질문 #24](https://github.com/Livenow14/2020_INU_Embedded_System/issues/24)
+- [lcd 화면 질문 #25](https://github.com/Livenow14/2020_INU_Embedded_System/issues/25)
+- [컴파일러 질문 #26](https://github.com/Livenow14/2020_INU_Embedded_System/issues/26)
+- [요구사항 질문 #27](https://github.com/Livenow14/2020_INU_Embedded_System/issues/27)
+- [USB인식 관련 문제 #28](https://github.com/Livenow14/2020_INU_Embedded_System/issues/28)
+- [버튼 입력 질문 드립니다. #29](https://github.com/Livenow14/2020_INU_Embedded_System/issues/29)
+- [+ 기호 예외처리에 관해 질문 사항있습니다. #30](https://github.com/Livenow14/2020_INU_Embedded_System/issues/30)
+- [오드로이드 실행문제 #31](https://github.com/Livenow14/2020_INU_Embedded_System/issues/31)
+- [실행파일 질문 #32](https://github.com/Livenow14/2020_INU_Embedded_System/issues/32)
+
+
+

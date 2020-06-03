@@ -50,4 +50,10 @@
 - [실행파일 질문 #32](https://github.com/Livenow14/2020_INU_Embedded_System/issues/32)
 
 
+### Lab 3 관련 주요 이슈
+- [TFT 과제 관련하여 여쭤봅니다 #39](https://github.com/Livenow14/2020_INU_Embedded_System/issues/39)
+- [알파벳 폰트 질문드립니다. #40](https://github.com/Livenow14/2020_INU_Embedded_System/issues/40)
+
+
+
 

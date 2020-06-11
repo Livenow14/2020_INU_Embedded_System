@@ -53,7 +53,11 @@
 ### Lab 3 관련 주요 이슈
 - [TFT 과제 관련하여 여쭤봅니다 #39](https://github.com/Livenow14/2020_INU_Embedded_System/issues/39)
 - [알파벳 폰트 질문드립니다. #40](https://github.com/Livenow14/2020_INU_Embedded_System/issues/40)
-
-
+- [tft lcd 버튼 #41](https://github.com/Livenow14/2020_INU_Embedded_System/issues/41)
+- [C 컴파일 질문 #42](https://github.com/Livenow14/2020_INU_Embedded_System/issues/42)
+- [라이브러리 선언에 대해 질문 있습니다. #43](https://github.com/Livenow14/2020_INU_Embedded_System/issues/43)
+- [공백 문자 출력과 스크린 가운데 위치 질문 #44](https://github.com/Livenow14/2020_INU_Embedded_System/issues/44)
+- [lab3 질문 #45](https://github.com/Livenow14/2020_INU_Embedded_System/issues/45)
+- [tft lcd 문자 출력 질문입니다 #47](https://github.com/Livenow14/2020_INU_Embedded_System/issues/47)
 
 

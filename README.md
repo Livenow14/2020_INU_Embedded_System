@@ -59,5 +59,7 @@
 - [공백 문자 출력과 스크린 가운데 위치 질문 #44](https://github.com/Livenow14/2020_INU_Embedded_System/issues/44)
 - [lab3 질문 #45](https://github.com/Livenow14/2020_INU_Embedded_System/issues/45)
 - [tft lcd 문자 출력 질문입니다 #47](https://github.com/Livenow14/2020_INU_Embedded_System/issues/47)
-
+- [ #48](https://github.com/Livenow14/2020_INU_Embedded_System/issues/48)
+- [ #49](https://github.com/Livenow14/2020_INU_Embedded_System/issues/49)
+- [ #50](https://github.com/Livenow14/2020_INU_Embedded_System/issues/50)
 

@@ -62,4 +62,5 @@
 - [ #48](https://github.com/Livenow14/2020_INU_Embedded_System/issues/48)
 - [ #49](https://github.com/Livenow14/2020_INU_Embedded_System/issues/49)
 - [ #50](https://github.com/Livenow14/2020_INU_Embedded_System/issues/50)
-
+- [ #52](https://github.com/Livenow14/2020_INU_Embedded_System/issues/52)
+- [ #53](https://github.com/Livenow14/2020_INU_Embedded_System/issues/53)

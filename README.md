@@ -59,8 +59,12 @@
 - [공백 문자 출력과 스크린 가운데 위치 질문 #44](https://github.com/Livenow14/2020_INU_Embedded_System/issues/44)
 - [lab3 질문 #45](https://github.com/Livenow14/2020_INU_Embedded_System/issues/45)
 - [tft lcd 문자 출력 질문입니다 #47](https://github.com/Livenow14/2020_INU_Embedded_System/issues/47)
-- [ #48](https://github.com/Livenow14/2020_INU_Embedded_System/issues/48)
-- [ #49](https://github.com/Livenow14/2020_INU_Embedded_System/issues/49)
-- [ #50](https://github.com/Livenow14/2020_INU_Embedded_System/issues/50)
-- [ #52](https://github.com/Livenow14/2020_INU_Embedded_System/issues/52)
-- [ #53](https://github.com/Livenow14/2020_INU_Embedded_System/issues/53)
+- ["fbdev open: Too many open files" error 관련 질문 #48](https://github.com/Livenow14/2020_INU_Embedded_System/issues/48)
+- [gpio pin 입력 질문입니다. #49](https://github.com/Livenow14/2020_INU_Embedded_System/issues/49)
+- [TFT LCD와 빵판 연결 관련 질문입니다. #50](https://github.com/Livenow14/2020_INU_Embedded_System/issues/50)
+- [TFT LCD Lab3 채점 시 기준 관련 질문입니다. #52](https://github.com/Livenow14/2020_INU_Embedded_System/issues/52)
+
+### Lab 4 관련 주요 이슈
+- [Lab 4 팀 선정에 대해서 질문 #53](https://github.com/Livenow14/2020_INU_Embedded_System/issues/53)
+- [Lab 4 스마트폰 한글 입력기 관련 질문 #54](https://github.com/Livenow14/2020_INU_Embedded_System/issues/54)
+- [07 Touch screen (all in one) 5p_Touch screen error #55](https://github.com/Livenow14/2020_INU_Embedded_System/issues/55)

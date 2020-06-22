@@ -68,3 +68,4 @@
 - [Lab 4 팀 선정에 대해서 질문 #53](https://github.com/Livenow14/2020_INU_Embedded_System/issues/53)
 - [Lab 4 스마트폰 한글 입력기 관련 질문 #54](https://github.com/Livenow14/2020_INU_Embedded_System/issues/54)
 - [07 Touch screen (all in one) 5p_Touch screen error #55](https://github.com/Livenow14/2020_INU_Embedded_System/issues/55)
+- [오드로이드가 죽었슴니다 #56](https://github.com/Livenow14/2020_INU_Embedded_System/issues/56)
